@@ -7,3 +7,5 @@ This project demonstrates the possibility of creating Android Live Wallpaper usi
 Unity version: 2018.3.5f1
 ```
 
+![](UnityAndroidLiveWallpaper.png)
+
